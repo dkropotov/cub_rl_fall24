@@ -18,6 +18,10 @@ Assessment Component 2: Practical assessments, Weight: 50 %
 
 Completion: To pass this module, the examination of each module component must be passed with at least 45%.
 
+## Exam
+
+The written exam is scheduled on the 20th of December at 10:00 (60 minutes).
+
 ## Lectures (Preliminary plan)
 
 | Date | Number | Topic | Materials |
