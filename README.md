@@ -22,7 +22,7 @@ Completion: To pass this module, the examination of each module component must b
 
 The written exam is scheduled on the 20th of December at 10:00 (60 minutes) at IRC Seminar Room I. During exam no materials can be used. Test exam: [link](Materials/exam_test.pdf), answers to this exam: [link](Materials/exam_test_answers.pdf)
 
-## Lectures (Preliminary plan)
+## Lectures
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
@@ -36,10 +36,9 @@ The written exam is scheduled on the 20th of December at 10:00 (60 minutes) at I
 | 25.10.24 | 08 | Proximal Policy Optimization (PPO). Generalized Advantage Estimation (GAE). | [Slides](http://www.machinelearning.ru/wiki/images/1/14/MSU_2021_PPO.pdf)<br>[PPO](https://arxiv.org/pdf/1707.06347.pdf)<br> [Implementation matters in RL](https://arxiv.org/pdf/2005.12729.pdf)<br>[GAE](https://arxiv.org/pdf/1506.02438.pdf)<br> Sutton, Barto, ch.12 |
 | 01.11.24 | 09 | Continuous control. Soft Actor Critic (SAC). | [Deep Deterministic Policy Gradient (DDPG)](https://arxiv.org/pdf/1509.02971.pdf)<br>[Twin-Delayed DDPG (TD3)](https://arxiv.org/pdf/1802.09477.pdf)<br>[Soft Actor-Critic (SAC)](https://arxiv.org/pdf/1801.01290.pdf)<br> [Truncated Quantile Critics (TQC)](https://arxiv.org/abs/2005.04269)<br> [RL as probabilistic inference](https://arxiv.org/pdf/1805.00909.pdf) | 
 | 08.11.24 | 10 | Multi-armed bandits. Intrinsic motivation.	| [Bandits Algorithms](https://banditalgs.com/)<br> [Slides](http://www.machinelearning.ru/wiki/images/f/fa/Exploration-vs-exploitation.pdf)<br>Sutton, Barto, ch.2<br>[Random Network Distillation (RND)](https://arxiv.org/abs/1810.12894)<br>[Intrinsic Curiosity Module (ICM)](https://arxiv.org/abs/1705.05363)<br> [Exploration Strategies](https://lilianweng.github.io/lil-log/2020/06/07/exploration-strategies-in-deep-reinforcement-learning.html)<br>[Variational Information Maximizing Exploration (VIME)](https://arxiv.org/abs/1605.09674)<br>[Never Give Up (NGU)](https://arxiv.org/abs/2002.06038) |
-| 15.11.24 | 11 | Imitation learning. | [Guided Cost Learning](https://arxiv.org/pdf/1603.00448.pdf)<br>[Generative Adversarial Imitation Learning (GAIL)](https://arxiv.org/pdf/1606.03476.pdf) |  |
-| 22.11.24 | 12 | Monte Carlo Tree Search. AlphaZero, MuZero.	| [AlphaZero](https://discovery.ucl.ac.uk/id/eprint/10045895/1/agz_unformatted_nature.pdf)<br>[MuZero](https://arxiv.org/pdf/1911.08265.pdf) | [AlphaZero in one picture](https://miro.medium.com/max/2000/1*0pn33bETjYOimWjlqDLLNw.png) |
-| 29.11.24 | 13 | Linear Quadratic Regulator (LQR). Model-based RL.	| [Slides](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-10.pdf)<br>[Slides](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-11.pdf) | [World Models](https://worldmodels.github.io/) |
-| 06.12.24 | 14 | Dreamer	| [Dreamer v1](https://arxiv.org/abs/1912.01603)<br>[Dreamer v2](https://arxiv.org/abs/2010.02193) | 
+| 22.11.24 | 11 | Monte Carlo Tree Search. AlphaZero.	| [AlphaZero](https://discovery.ucl.ac.uk/id/eprint/10045895/1/agz_unformatted_nature.pdf) | [AlphaZero in one picture](https://miro.medium.com/max/2000/1*0pn33bETjYOimWjlqDLLNw.png) |
+| 29.11.24 | 12 | Linear Quadratic Regulator (LQR). Model-based RL.	| [Slides](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-10.pdf)<br>[Slides](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-11.pdf) | [World Models](https://worldmodels.github.io/) |
+
 
 ## Materials
 [R.Sutton, A.Barto. Reinforcement Learning: An Introduction, 2018](https://drive.google.com/file/d/1Z4W_-0IaMNpZnhnMkqcDVM_EA79GFJo-/view)
