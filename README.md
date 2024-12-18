@@ -20,7 +20,7 @@ Completion: To pass this module, the examination of each module component must b
 
 ## Exam
 
-The written exam is scheduled on the 20th of December at 10:00 (60 minutes).
+The written exam is scheduled on the 20th of December at 10:00 (60 minutes) at IRC Seminar Room I. During exam no materials can be used. Test exam: [link](Materials/exam_test.pdf), answers to this exam: [link](Materials/exam_test_answers.pdf)
 
 ## Lectures (Preliminary plan)
 
